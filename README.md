@@ -4,11 +4,11 @@
 
 This GitHub repository serves as a comprehensive resource for our CO2 emission prediction project. Here, you will find the following:
 
-**Code**: Our machine learning models and data preprocessing scripts are available in the **src** directory. You can explore how we trained and evaluated the models.
+**Code**: Our machine learning models and data preprocessing scripts are available in the *src* directory. You can explore how we trained and evaluated the models.
 
-**Dataset**: In the ***data*** directory, you can access the datasets we used for training and testing. We believe in transparency and reproducibility, so we've provided the sources and preprocessing details.
+**Dataset**: In the *data* directory, you can access the datasets we used for training and testing. We believe in transparency and reproducibility, so we've provided the sources and preprocessing details.
 
-**Documentation**: For a deeper understanding of our approach and methodology, please refer to the **docs** folder. You'll find detailed explanations of the models, algorithms, and evaluation metrics we used.
+**Documentation**: For a deeper understanding of our approach and methodology, please refer to the *docs* folder. You'll find detailed explanations of the models, algorithms, and evaluation metrics we used.
 
 ## Project Goals
 
