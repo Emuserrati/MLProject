@@ -15,4 +15,4 @@ This GitHub repository serves as a comprehensive resource for our CO2 emission p
 Our primary objectives for this project are as follows:
 
 **Accurate Predictions**: We aim to develop machine learning models that can predict CO2 emissions with a high degree of accuracy.
-**Transparency**: We believe in transparency in our research. All code and data sources are clearly documented to encourage reproducibility.
+**Transparency**: We believe in transparency in our research. All code and data sources are clearly documented to encourage reproducibility. 
